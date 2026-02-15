@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Venus Flytrap feat. 佐藤千亜妃（feat. Chiaki Sato）",
+  "base_artist": "春野",
+  "createdAt": "2026-02-15T09:00:50.230644Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Venus Flytrap feat. 佐藤千亜妃",
+      "artist": "春野",
+      "has_synced": false,
+      "path": "select/pl_01_Venus_Flytrap_feat._佐藤千亜妃_春野.txt"
+    }
+  ]
+}
